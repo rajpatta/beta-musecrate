@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -515,7 +516,9 @@ h6,
   color: #fff;
 }
 #form2-3 .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #efefef;
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
 }
 #testimonials1-9 .card-block P {
   font-size: 11px;
@@ -590,7 +593,7 @@ h6,
   color: #c0a375!important;
 }
 #form1-c .form-control-label {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-c SMALL {
   color: #f3c649;
