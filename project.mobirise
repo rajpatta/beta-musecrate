@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.9.2",
     "favicon": "@PROJECT_PATH@/assets/images/080954-glossy-silver-icon-business-cart2-128x128-32.png",
     "noImageResize": "",
@@ -209,7 +209,7 @@
             }
           },
           "title": "MUSE CRATE",
-          "text": "Create <b>OPPUTUNITIES</b><br>Be <b>Limitless</b><i>&nbsp;</i><br><br>An online marketplace for<i> </i><b>ART</b> , <b>CRAFT</b>, <b>HANDMADE</b> <br>&amp; <b>Creative Products</b><br>",
+          "text": "Create <b>OPPUTUNITIES</b><br>Be <b>Limitless</b><i>&nbsp;</i><br><br>An online marketplace for<i> </i><b>ART</b>, <b>CRAFT</b>, <b>HANDMADE</b> <br>&amp; <b>Creative Products</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -253,7 +253,7 @@
             "showButtons": true
           },
           "title": "An Online Market Place<br><br>",
-          "text": "Empowering &nbsp;Artistic and Creative minds accross India.<br><b>----------------------------------<br><span style=\"font-style: normal;\">SHOWCASE &gt;</span></b><span style=\"font-style: normal;\">&nbsp;<b>&nbsp;PROMOTE &gt;</b>&nbsp;<b>SALE</b></span><span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b><br></b>&nbsp;</span>",
+          "text": "Empowering &nbsp;Artistic and Creative minds across India.<br><b>-----------------------------------<br><span style=\"font-style: normal;\">SHOWCASE &nbsp;&gt;</span></b><span style=\"font-style: normal;\">&nbsp;<b>&nbsp;PROMOTE &nbsp;&gt;</b>&nbsp;&nbsp;<b>SALE</b></span><span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b><br></b>&nbsp;</span>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#form2-3\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
@@ -679,6 +679,26 @@
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: support@musecrate.com<br>\nPhone: +91 9860259502<br>\nFax: +91 &nbsp;000 0000 002",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://musecrate.com\">Website</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"http://musecrate.com\">Link</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"http://musecraft.com\">Link 2</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 musecrate."
         }
       ]
     },
