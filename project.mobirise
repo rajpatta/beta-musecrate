@@ -291,7 +291,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/shop-600x424-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/heart-600x424-90-600x424-64.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -301,13 +301,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "Crafted with Love",
+          "subtitle1": "",
+          "caption1": "A market place for authentic handcrafted, creative goods.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gift-600x424-82.jpg",
+              "src": "@PROJECT_PATH@/assets/images/shop-600x424-25-600x424-59.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -317,13 +317,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Find &amp; Follow!!",
+          "subtitle2": "",
+          "caption2": "Follow Creative designers, artists and their work.",
+          "button2": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/heart-600x424-90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gift-600x424-82-600x424-44.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -333,10 +333,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title3": "Safe &amp; Secure",
+          "subtitle3": "",
+          "caption3": "We protect every transaction &amp; make sure your purchases are delivered at your doorstep...",
+          "button3": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&nbsp;MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -506,7 +506,7 @@
           "form": {
             "action": "rraj1709@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling subscribing to MUSECRATE!"
             },
             "fields": {
               "email": {
