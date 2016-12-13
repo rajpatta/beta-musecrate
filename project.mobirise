@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MUSE CRATE",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -815,9 +815,9 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Shape your future product sales with us, deliver that awesome visual impact and deep functional value.",
           "form": {
-            "action": "rajendra.patta@mindstix.com",
+            "action": "rraj1709@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
